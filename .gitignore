@@ -1,0 +1,16 @@
+# Carpetas de compilación
+build/
+bin/
+out/
+
+# Archivos ejecutables e intermedios
+*.o
+*.obj
+*.exe
+
+# Configuración de IDEs o editores
+.vscode/
+.idea/
+
+# Docker y temporales
+*.log
